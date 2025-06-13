@@ -1,6 +1,5 @@
 import './App.css'
 import LeetGuide from './components/LeetGuide'
-
 function App() {
 
   return (
@@ -12,4 +11,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
